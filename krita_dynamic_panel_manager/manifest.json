@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "developer@example.com",
+                "Name": "Developer"
+            }
+        ],
+        "Category": "Interface",
+        "Description": "A dynamic panel manager that allows creating and managing up to 8 separate panel columns with drag-and-drop functionality",
+        "EnabledByDefault": true,
+        "Id": "krita_dynamic_panel_manager",
+        "License": "GPL-3.0",
+        "Name": "Dynamic Panel Manager",
+        "ServiceTypes": [
+            "Krita/PythonPlugin"
+        ],
+        "Version": "1.0.0",
+        "Website": "https://github.com/yourusername/krita-dynamic-panel-manager"
+    }
+}
